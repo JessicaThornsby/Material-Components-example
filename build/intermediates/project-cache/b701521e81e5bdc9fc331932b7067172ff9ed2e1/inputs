@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/jessicathornsby/Downloads/MaterialDesignExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=44c33a97edfe3034095b489e18dcf9995201341c
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
